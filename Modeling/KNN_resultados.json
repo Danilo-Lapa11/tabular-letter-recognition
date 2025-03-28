@@ -1,0 +1,342 @@
+[
+    {
+        "iteration": 1,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 2,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 3,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 4,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 5,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 6,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 7,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 8,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 9,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 10,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 11,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 12,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 13,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 14,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 15,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 16,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 17,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 18,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 19,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    },
+    {
+        "iteration": 20,
+        "params": {
+            "weights": "distance",
+            "p": 1,
+            "n_neighbors": 5,
+            "algorithm": "auto"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95,
+        "val_precision": 0.9503033736451381,
+        "val_recall": 0.9497320379286852,
+        "val_f1": 0.9498010177658277
+    }
+]

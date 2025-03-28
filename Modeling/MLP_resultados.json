@@ -1,0 +1,442 @@
+[
+    {
+        "iteration": 1,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.953125,
+        "val_precision": 0.9535273298733441,
+        "val_recall": 0.9531022013641869,
+        "val_f1": 0.9530808192014532
+    },
+    {
+        "iteration": 2,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 0.999921875,
+        "train_precision": 0.9999224565756825,
+        "train_recall": 0.9999206978588422,
+        "train_f1": 0.9999214971738581,
+        "val_accuracy": 0.956875,
+        "val_precision": 0.956917584410437,
+        "val_recall": 0.9563472963149976,
+        "val_f1": 0.9563694035574498
+    },
+    {
+        "iteration": 3,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 0.999921875,
+        "train_precision": 0.9999224565756825,
+        "train_recall": 0.9999206978588422,
+        "train_f1": 0.9999214971738581,
+        "val_accuracy": 0.9540625,
+        "val_precision": 0.9539798506293979,
+        "val_recall": 0.954030941504516,
+        "val_f1": 0.953688615056072
+    },
+    {
+        "iteration": 4,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 0.999921875,
+        "train_precision": 0.9999232304621526,
+        "train_recall": 0.9999186859651975,
+        "train_f1": 0.9999208768439538,
+        "val_accuracy": 0.9553125,
+        "val_precision": 0.9547531941126919,
+        "val_recall": 0.9551594121557174,
+        "val_f1": 0.954827905166404
+    },
+    {
+        "iteration": 5,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 0.99984375,
+        "train_precision": 0.999838056680162,
+        "train_recall": 0.9998461538461539,
+        "train_f1": 0.9998417802824083,
+        "val_accuracy": 0.9553125,
+        "val_precision": 0.9553307782109316,
+        "val_recall": 0.9544604531996691,
+        "val_f1": 0.954735759141044
+    },
+    {
+        "iteration": 6,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.953125,
+        "val_precision": 0.953928706230494,
+        "val_recall": 0.9534089239390083,
+        "val_f1": 0.9533591172955946
+    },
+    {
+        "iteration": 7,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.9559375,
+        "val_precision": 0.9563988676339624,
+        "val_recall": 0.9555542181305459,
+        "val_f1": 0.9557367623725901
+    },
+    {
+        "iteration": 8,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.955625,
+        "val_precision": 0.9554647291185319,
+        "val_recall": 0.9558558994020037,
+        "val_f1": 0.9554956940732133
+    },
+    {
+        "iteration": 9,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 0.999921875,
+        "train_precision": 0.9999232304621526,
+        "train_recall": 0.9999186859651975,
+        "train_f1": 0.9999208768439538,
+        "val_accuracy": 0.9546875,
+        "val_precision": 0.9545707279510487,
+        "val_recall": 0.9544079714103225,
+        "val_f1": 0.9543161568471283
+    },
+    {
+        "iteration": 10,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.9534375,
+        "val_precision": 0.9540818332979902,
+        "val_recall": 0.9534737974254871,
+        "val_f1": 0.9535036438144253
+    },
+    {
+        "iteration": 11,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.9509375,
+        "val_precision": 0.9513437629200592,
+        "val_recall": 0.9504534614185525,
+        "val_f1": 0.9507188399821934
+    },
+    {
+        "iteration": 12,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 0.999921875,
+        "train_precision": 0.9999224565756825,
+        "train_recall": 0.9999206978588422,
+        "train_f1": 0.9999214971738581,
+        "val_accuracy": 0.9565625,
+        "val_precision": 0.9564476202355257,
+        "val_recall": 0.9563312209865257,
+        "val_f1": 0.9562636495016993
+    },
+    {
+        "iteration": 13,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 0.999921875,
+        "train_precision": 0.9999224565756825,
+        "train_recall": 0.9999206978588422,
+        "train_f1": 0.9999214971738581,
+        "val_accuracy": 0.95375,
+        "val_precision": 0.9540127336898043,
+        "val_recall": 0.9539777510511792,
+        "val_f1": 0.9536856904752509
+    },
+    {
+        "iteration": 14,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.95375,
+        "val_precision": 0.9537143013351067,
+        "val_recall": 0.9537221634520404,
+        "val_f1": 0.953498193222707
+    },
+    {
+        "iteration": 15,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.955,
+        "val_precision": 0.9553187426455744,
+        "val_recall": 0.9547694676630655,
+        "val_f1": 0.9546961994268486
+    },
+    {
+        "iteration": 16,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 0.999921875,
+        "train_precision": 0.9999232304621526,
+        "train_recall": 0.9999186859651975,
+        "train_f1": 0.9999208768439538,
+        "val_accuracy": 0.9559375,
+        "val_precision": 0.9558771408321582,
+        "val_recall": 0.9558516682620197,
+        "val_f1": 0.9557308130415255
+    },
+    {
+        "iteration": 17,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 0.99984375,
+        "train_precision": 0.999845687037835,
+        "train_recall": 0.9998393838240397,
+        "train_f1": 0.999842374017812,
+        "val_accuracy": 0.9559375,
+        "val_precision": 0.9563588436526385,
+        "val_recall": 0.9556579415851504,
+        "val_f1": 0.9558612794131242
+    },
+    {
+        "iteration": 18,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.9553125,
+        "val_precision": 0.9551782374136415,
+        "val_recall": 0.9551996181371796,
+        "val_f1": 0.9549984225035846
+    },
+    {
+        "iteration": 19,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.9546875,
+        "val_precision": 0.9540741195345621,
+        "val_recall": 0.9550689869715691,
+        "val_f1": 0.9542658299405521
+    },
+    {
+        "iteration": 20,
+        "params": {
+            "solver": "adam",
+            "max_iter": 500,
+            "learning_rate": "adaptive",
+            "hidden_layer_sizes": [
+                100,
+                100
+            ],
+            "alpha": 0.0001,
+            "activation": "logistic"
+        },
+        "train_accuracy": 1.0,
+        "train_precision": 1.0,
+        "train_recall": 1.0,
+        "train_f1": 1.0,
+        "val_accuracy": 0.9525,
+        "val_precision": 0.952671949482556,
+        "val_recall": 0.9522134357323335,
+        "val_f1": 0.9521562979262884
+    }
+]
